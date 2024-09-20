@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasha\\source\\repos\\T8Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6015AA42-CD9F-4428-BBE5-390E5B3905A9}|T8Test\\T8Test.csproj|c:\\users\\sasha\\source\\repos\\t8test\\t8test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015AA42-CD9F-4428-BBE5-390E5B3905A9}|T8Test\\T8Test.csproj|solutionrelative:t8test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\T8Test\\T8Test\\Program.cs",
+              "RelativeDocumentMoniker": "T8Test\\Program.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\T8Test\\T8Test\\Program.cs",
+              "RelativeToolTip": "T8Test\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wCkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:20:26.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

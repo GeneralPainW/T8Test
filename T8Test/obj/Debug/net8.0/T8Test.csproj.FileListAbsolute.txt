@@ -1,0 +1,14 @@
+C:\Users\sasha\source\repos\T8Test\T8Test\bin\Debug\net8.0\T8Test.exe
+C:\Users\sasha\source\repos\T8Test\T8Test\bin\Debug\net8.0\T8Test.deps.json
+C:\Users\sasha\source\repos\T8Test\T8Test\bin\Debug\net8.0\T8Test.runtimeconfig.json
+C:\Users\sasha\source\repos\T8Test\T8Test\bin\Debug\net8.0\T8Test.dll
+C:\Users\sasha\source\repos\T8Test\T8Test\bin\Debug\net8.0\T8Test.pdb
+C:\Users\sasha\source\repos\T8Test\T8Test\obj\Debug\net8.0\T8Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\T8Test\T8Test\obj\Debug\net8.0\T8Test.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\T8Test\T8Test\obj\Debug\net8.0\T8Test.AssemblyInfo.cs
+C:\Users\sasha\source\repos\T8Test\T8Test\obj\Debug\net8.0\T8Test.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\T8Test\T8Test\obj\Debug\net8.0\T8Test.dll
+C:\Users\sasha\source\repos\T8Test\T8Test\obj\Debug\net8.0\refint\T8Test.dll
+C:\Users\sasha\source\repos\T8Test\T8Test\obj\Debug\net8.0\T8Test.pdb
+C:\Users\sasha\source\repos\T8Test\T8Test\obj\Debug\net8.0\T8Test.genruntimeconfig.cache
+C:\Users\sasha\source\repos\T8Test\T8Test\obj\Debug\net8.0\ref\T8Test.dll
